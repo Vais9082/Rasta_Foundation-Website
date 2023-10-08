@@ -1,2 +1,2 @@
-# Rasta_Foundation-Website
+# Vaishnavi Zade
 Repository
